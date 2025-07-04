@@ -1,4 +1,4 @@
-# Mailer text editor with $${\color{purple}\textbf{angular}}$$
+# Mailer text editor with $${\color{purple}\textbf{Angular}}$$
 
 ## Instructions for quill text editer for mailing:
 
